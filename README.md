@@ -2,6 +2,10 @@
 
 *Alphanumeric ASL signs recognition by using Deep Learning's AlexNet Model.*
 
+## Dataset
+Dataset is taken from Massey University's Gesture database 2012.
+url- http://www.massey.ac.nz/~albarcza/gesture_dataset2012.html
+
 ## Requirements
 
 Following are all the packages that need to be installed before running this project.
