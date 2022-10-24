@@ -24,6 +24,8 @@ tensorflow
 
 keras
 
+pandas
+
 All the above packages can be installed using the following command(Replace packname with appropriate package name, without quotes):
 ```bash
 pip install "packname"
